@@ -1,2 +1,7 @@
 #env
 /env/
+
+
+#whats inside the models folder
+
+/models/*
