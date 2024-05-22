@@ -5,3 +5,8 @@
 #whats inside the models folder
 
 /models/*
+
+
+# vscode config
+
+.vscode/
