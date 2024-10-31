@@ -1,8 +1,8 @@
 # Flask local server
 
-This is a flask local server for the Builds from the Unity models
+This is a Flask-based local server for serving builds generated from Unity models.
 
-Add the model files insise de models folder:
+Add the model files inside the models folder:
 
 ```
 -models:
